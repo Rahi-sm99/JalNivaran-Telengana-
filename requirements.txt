@@ -1,0 +1,15 @@
+# This project is a Next.js (Node.js) application.
+# Therefore, it uses package.json instead of requirements.txt for managing dependencies.
+
+# To install dependencies, please ensure you have Node.js installed, then run:
+# npm install
+
+# The core technologies and packages used include:
+# - next (v14+)
+# - react and react-dom
+# - tailwindcss
+# - @supabase/supabase-js
+# - framer-motion (via tw-animate-css)
+# - shadcn/ui components (radix-ui, lucide-react)
+
+# For a complete and exact list of dependencies, please refer to the package.json file.
