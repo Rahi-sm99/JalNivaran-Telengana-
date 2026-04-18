@@ -59,6 +59,14 @@ Jal Nivaran relies on Supabase PostgreSQL for persistent data handling. The foll
 
 ---
 
+## 🔌 Hardware & IoT Prototype
+
+For predicting floods and detecting blocked drainage systems proactively, our solution utilizes ESP32 microcontrollers wired with ultrasonic sensors on a Wokwi simulated environment:
+
+![ESP32 Circuit Diagram](public/images/hardware-wokwi-circuit.png)
+
+---
+
 ## 🏛️ Project Motivation
 
 Urban flooding is a growing challenge in rapidly developing states like Telangana. **Jal Nivaran** bridges the gap between technology and ground-level response. By combining IoT, official administration, and community volunteerism, we aim to minimize response time and ensure citizen safety during monsoons.
